@@ -1,0 +1,13 @@
+
+{
+  "name": "simple-webhook",
+  "version": "1.0.0",
+  "description": "A simple Node.js webhook receiver",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
